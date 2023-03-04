@@ -1,0 +1,171 @@
+*{
+        margin: -0%;
+        padding: 5px;
+        font-family: 'Roboto', sans-serif;
+        
+        
+    
+}
+.navbar{
+
+    display: flex;
+    position: fixed;
+    flex-direction: row;
+    
+    background-color: white;
+    width: 100%;
+   padding: 2%;
+    top: 0%;
+
+}
+
+
+.hbo{
+    margin-left: 74%;
+    margin-top: 2%;
+    color:#353333 ;
+    position: fixed;
+    
+    background-color: white;
+
+    
+    
+}
+.s1{
+    
+    margin-left: 4%;
+    margin-top: 2%;
+    position: fixed;
+    
+    background-color: white;
+    
+   
+}
+.logo{
+    position: fixed;
+    margin-top: 1%;
+}
+.icon{
+
+    margin-left: 47%;
+    margin-top: 7%;
+    
+}
+.title{
+    text-align: center;
+    margin-top: 2%;
+    color: #00b39b; 
+}
+.par{
+    color: #747474;
+    width: 35%;
+    margin-top: 3% ;
+    font-size: 20px;
+    font-family: bold;
+}
+.cantainer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    
+}
+.hbo :hover{
+    color: #00b39b
+}
+
+.align-button{
+    width: 25%;
+    cursor: pointer;
+    
+    margin-top:3%
+}
+.butt{
+    color: white;
+    background-color:#75abf1;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 0.5%;
+    
+    
+    
+
+    
+}
+.butt:hover {
+
+background-color:rgb(5, 5, 136);
+
+}
+.photo-hos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:space-around
+    
+     
+     
+}
+
+.last-p{
+
+    font-size: 2.1428571429em;
+    text-align: center;
+    margin-top: 10%;
+   
+    margin-bottom: 0.75em;
+     color: #222121;
+    
+    
+    
+   
+    
+    
+
+}
+
+.button-end{
+    margin-top: 10%
+    color white;
+    background-color:#5497ee;
+    border: none;
+    outline: none;
+    border-radius: 3px;
+    cursor: pointer;
+    
+    padding: 0.5%;
+    
+    margin-left: 40%;
+    
+}
+.button-end :hover{
+    background-color:#5497ee;
+
+    
+    
+
+}
+
+  .foot1{
+    margin-top: 6%;
+    text-align: center;
+    
+    
+    font-size: 13px;
+    color: #555555;
+    
+  }
+  .foot2{
+    
+    margin-top: 2%;
+    text-align: center;
+    
+    font-size: 13px;
+    color: #504f4f;
+  }
+
+
+
+    
+
